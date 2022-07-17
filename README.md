@@ -14,5 +14,5 @@ Projeto que aborda os primeiros passos no HTML e CSS. Desafio proposto no nível
 - Fundamentos de HTML e CSS
 - Acessibilidade 
 - Estrutura semântica
-- Css: display, position, border, justify-content, links
+- Css: display, position, border, justify-content
 
