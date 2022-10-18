@@ -1,7 +1,7 @@
 
 # ⌨️ Sobre o projeto !
 
-Projeto que aborda os primeiros passos no HTML e CSS. Desafio proposto no nível 2 do programa.
+Projeto que aborda os primeiros passos no HTML e CSS. 
 
 ## 💻 Demonstração
 
